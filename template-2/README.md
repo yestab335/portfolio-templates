@@ -1,4 +1,4 @@
-# Resume-Website-Template-1
+# Template 2
 ![Wesbite-Preview](images/Website.png)
 
 Directory Structure
